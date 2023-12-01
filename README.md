@@ -22,3 +22,26 @@ _Nesse_ curso você vai dominar **github** _do zero ao profissional._
 
 [Youtube](https://youtube.com/)
 
+<!-- Blokquote -->
+
+> Este e um blockquote, usado para destacar alguma area.
+
+> Segunda area
+
+# Comando para rodar o projeto
+
+```
+npm start
+```
+**Exemplo de uso do script**
+
+```js
+function showName(name){
+    return 'Bem vindo': + name;
+}
+```
+
+
+
+
+
