@@ -33,13 +33,29 @@ _Nesse_ curso você vai dominar **github** _do zero ao profissional._
 ```
 npm start
 ```
-**Exemplo de uso do script**
+**Exemplo de uso do JavaScript**
 
 ```js
 function showName(name){
-    return 'Bem vindo': + name;
+    return 'Bem vindo' + name;
 }
 ```
+**Exemplo de uso do HTML**
+```html
+<h1>
+    Titulo do projeto
+    <span>Curso Git</span>
+</h1>
+
+
+```
+
+Propriedade | Descrição| 
+------------ ----------
+Name | Para informar o nome do usuario 
+Size | Para definir o tamanho do campo
+Background | Cor de fundo da area em HEX
+OnPress | Função chamada quando clicar no botão
 
 
 
