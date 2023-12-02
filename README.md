@@ -50,8 +50,8 @@ function showName(name){
 
 ```
 
-Propriedade | Descrição| 
------------- ----------
+Propriedade | Descrição | 
+------------| ----------
 Name | Para informar o nome do usuario 
 Size | Para definir o tamanho do campo
 Background | Cor de fundo da area em HEX
